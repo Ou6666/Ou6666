@@ -139,10 +139,9 @@
 
 ## 🌐 Connect with Me
 - GitHub: [Ou6666](https://github.com/Ou6666)
-- LinkedIn: Coming soon...
-- Kaggle: Coming soon...
-- Email: Coming soon...
-
+- LinkedIn: https://www.linkedin.com/in/ouhao-wu-877862393/
+- Kaggle: https://www.kaggle.com/ouhaowu
+- Email: owuou@iscte-iul.pt
 ---
 
 <div align="center">
