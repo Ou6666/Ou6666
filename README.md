@@ -69,3 +69,12 @@
 `Neon mind. Human heart. AI future.`
 
 </div>
+
+---
+
+## 🐍 Contribution Snake
+<div align="center">
+
+![snake gif](https://github.com/Ou6666/Ou6666/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
