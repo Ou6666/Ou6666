@@ -1,41 +1,59 @@
 <div align="center">
 
-# 𝙾𝚞𝚑𝚊𝚘 𝚆𝚞 👾
+# 👾 Ouhao Wu
 ### `AI Student` · `NLP` · `RAG` · 
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile;AI+Student+with+Cyberpunk+Energy;Building+cool+projects+step+by+step" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+profile;Final-year+AI+student;NLP+%7C+RAG+%7C+Machine+Learning;Building+cool+projects+step+by+step" alt="Typing SVG" />
 
 </div>
 
 ---
 
 ## 🌌 About Me
-> Coming soon...
+- 🎓 Final-year BSc student in Artificial Intelligence and Digital Technologies
+- 📍 Based in Lisbon, Portugal
+- 🤖 Interested in NLP, RAG systems, and practical AI applications
+- 🚀 Incoming MSc student in Applied Machine Learning
 
 ---
 
 ## ⚡ Tech Stack
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql)
-![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikitlearn)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikitlearn" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ou6666&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ou6666&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Ou6666&theme=tokyonight&hide_border=true&background=00000000" />
+
+</div>
 
 ---
 
 ## 🚀 Current Focus
-- 🤖 AI Projects
-- 🧠 NLP / RAG
-- 📊 Machine Learning
-- 🛠️ Building my portfolio
-
----
-
-## 📌 Featured Projects
-> Coming soon...
+- RAG-based conversational AI
+- CV screening and candidate ranking
+- Recommendation systems
+- Machine learning portfolio projects
 
 ---
 
