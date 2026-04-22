@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Ouhao Wu 👋
 
-<!--
-**Ou6666/Ou6666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year BSc student in Artificial Intelligence and Digital Technologies at ISCTE-Sintra, based in Lisbon.
 
-Here are some ideas to get you started:
+I’m interested in NLP, RAG systems, machine learning, and data-driven intelligent applications. I enjoy building practical AI projects that combine real data, scalable pipelines, and applied machine learning techniques.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m working on
+- RAG-based conversational AI
+- CV screening and candidate ranking
+- Recommendation systems
+- Urban mobility analytics
+
+## Tech Stack
+- Python
+- SQL
+- Scikit-learn
+- PyTorch
+- Pandas
+- LangChain
+- PostgreSQL / pgvector
+- Git & GitHub
+- Docker
+- Streamlit
+
+## Education
+- BSc in Artificial Intelligence and Digital Technologies, ISCTE-Sintra (2023–2026)
+- Incoming MSc in Applied Machine Learning
+
+## Links
+- GitHub: https://github.com/Ou6666
+- LinkedIn: 你的 LinkedIn 链接
+- Kaggle: 你的 Kaggle 链接
+
+## Contact
+- Email: 你的邮箱
