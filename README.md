@@ -28,8 +28,9 @@ I’m interested in NLP, RAG systems, machine learning, and data-driven intellig
 
 ## Links
 - GitHub: https://github.com/Ou6666
-- LinkedIn: 你的 LinkedIn 链接
-- Kaggle: 你的 Kaggle 链接
+- LinkedIn: https://www.linkedin.com/in/ouhao-wu-877862393/
+- Kaggle: https://www.kaggle.com/ouhaowu
 
 ## Contact
-- Email: 你的邮箱
+- Email: owuou@iscte-iul.pt
+- Phone:+351 937572958
