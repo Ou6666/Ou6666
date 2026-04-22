@@ -1,7 +1,7 @@
 <div align="center">
 
 # 𝙾𝚞𝚑𝚊𝚘 𝚆𝚞 👾
-### `AI Student` · `NLP` · `RAG` · `Cyberpunk Vibes`
+### `AI Student` · `NLP` · `RAG` · 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile;AI+Student+with+Cyberpunk+Energy;Building+cool+projects+step+by+step" alt="Typing SVG" />
 
