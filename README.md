@@ -15,7 +15,7 @@
 - 🚀 Incoming MSc student in **Applied Machine Learning**
 - 🤖 Interested in **RAG architectures, NLP pipelines, ML-based decision systems, and intelligent data applications**
 - 🧠 I enjoy turning academic work into practical AI systems with **retrieval, ranking, clustering, prediction, and recommendation**
-- 🌃 Current vibe: **building useful AI with a cyberpunk mindset — retrieval, reasoning, and real-world data**
+- 🌃 Current vibe: **building useful AI  — retrieval, reasoning, and real-world data**
 
 ---
 
